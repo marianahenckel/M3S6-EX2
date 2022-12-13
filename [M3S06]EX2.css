@@ -1,0 +1,85 @@
+.div{
+    position: absolute;
+    top: 70px;
+   left: 200px;
+    width: 1200px;
+    height: 900px;
+    border: solid 2px;
+    border-radius: 20px;
+    
+    
+}
+.logo{
+    width: 120px;
+    height: 40px;
+    top: 10px;
+    left: 30px;
+    position: absolute;
+    
+}
+.lupa{
+    position: absolute;
+    top: 0px;
+    height: 18px;
+    left: 8px;
+}
+.busca{
+    position: absolute;
+    left: 210px;
+    top: 15px;
+    border-radius: 10px;
+    border: solid 2px;
+    opacity: 50%;
+    width: 400px;
+    height: 20px;
+    text-indent: 50px;
+}
+h1{
+    border-top: 2px solid #000;
+    position: absolute;
+    left: 133px;
+    right: 70;
+    top: 300px;
+    
+
+}
+.historia{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-indent: 20px;
+    text-align: justify;
+    position: absolute;
+    left: 380px;
+    right: 100px;
+    top: 100px;
+    width: 500px;
+}
+.foto{
+    position: absolute;
+    top: 90px;
+   left: 90px; 
+   border: solid 2px;
+    border-radius: 20px;
+    width: 250px;
+    height: 200px;
+    
+}
+.contato{
+    position: absolute;
+    left: 550px;
+    top: 400px;
+}
+.face{
+    position: absolute;
+    left: 620px;
+    top: 400px;
+}
+.linke{
+    position: absolute;
+    left: 660px;
+    top: 400px;
+}
+.menu{
+    position: absolute;
+    right: 30px;
+}
+
